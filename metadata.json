@@ -1,0 +1,6 @@
+{
+  "name": "Focus Time",
+  "description": "A sleek, gorgeous Pomodoro focus timer with breaks, sound notifications, and motivational quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
